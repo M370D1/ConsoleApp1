@@ -18,7 +18,15 @@ namespace ConsoleApp1
                 case "2":
                     Task2.Execute();
                     break;
-                // Add more cases for other tasks
+                case "3":
+                    Task3.Execute();
+                    break;
+                    case "4":
+                        Task4.Execute();
+                    break;
+                    case "5":
+                        Task5.Execute();
+                    break;
                 default:
                     Console.WriteLine("Invalid choice.");
                     break;
