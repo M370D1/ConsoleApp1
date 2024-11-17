@@ -2,7 +2,7 @@
 
 namespace ConsoleApp1
 {
-    internal class Task1 // Convert And Add Two Numbers
+    internal class Task1 // Convert and Add Two Numbers
     {
         public static void Execute()
         {

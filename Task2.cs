@@ -2,7 +2,7 @@
 
 namespace ConsoleApp1
 {
-    internal class Task2 // Format A Full Name
+    internal class Task2 // Format a Full Name
     {
         public static void Execute()
         {
